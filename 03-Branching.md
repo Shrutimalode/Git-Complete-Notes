@@ -8,7 +8,7 @@ Branching is one of Git's most powerful features. It allows developers to work o
 
 Branching means creating a separate line of development from the main branch so that you can work independently without disturbing the original code.
 
-A **branch** is simply a lightweight, movable pointer to a specific commit. Creating a branch is almost instantaneous because Git doesn't copy your entire project—it only creates another pointer to an existing commit.
+A **branch** is simply a lightweight, movable pointer to a specific commit. Creating a branch is almost instantaneous because Git doesn't copy your entire project-it only creates another pointer to an existing commit.
 
 ---
 
