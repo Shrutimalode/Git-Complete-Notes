@@ -261,8 +261,8 @@ Here, **origin** is simply the default/alias name given to the remote repository
 
 ```bash
 git remote -v
-Here, **-v** is Verbose
 ```
+Here, **-v** is Verbose
 
 ### Remove the connection
 
