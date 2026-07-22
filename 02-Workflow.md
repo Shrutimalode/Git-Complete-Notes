@@ -255,12 +255,13 @@ To connect them:
 git remote add origin <repository-url>
 ```
 
-Here, **origin** is simply the default name given to the remote repository.
+Here, **origin** is simply the default/alias name given to the remote repository.
 
 ### Verify the connection
 
 ```bash
 git remote -v
+Here, **-v** is Verbose
 ```
 
 ### Remove the connection
