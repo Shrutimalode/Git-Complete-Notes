@@ -63,7 +63,7 @@ This workflow ensures that your work is properly tracked and organized before it
 
 # Step 1 – Initialize a Repository
 
-Before Git can track a project, it needs a repository.
+Before Git can track a project, it needs a repository(local repository).
 
 Use the following command:
 
