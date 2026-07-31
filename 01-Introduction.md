@@ -347,18 +347,6 @@ git fetch
 
 ---
 
-# Screenshot
-
-📷 Add a screenshot of:
-
-```bash
-git --version
-
-git config --list
-```
-
----
-
 # Common Mistakes
 
 ❌ Forgetting to configure username
