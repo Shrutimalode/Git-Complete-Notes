@@ -263,21 +263,7 @@ git config --list
 
 Once you initialize Git, your project moves through four stages.
 
-```text
-Working Directory
-       │
-       │ git add .
-       ▼
-Staging Area
-       │
-       │ git commit
-       ▼
-Local Repository
-       │
-       │ git push
-       ▼
-Remote Repository (GitHub)
-```
+![Git Workflow](workflow.png)
 
 ## 1. Working Directory
 
