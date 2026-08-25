@@ -296,7 +296,7 @@ Think of it as a waiting area before committing.
 Files are permanently saved using:
 
 ```bash
-git commit
+git commit -m "msg"
 ```
 
 Each commit creates a new version of the project.
