@@ -310,6 +310,22 @@ Always pull before starting new work if multiple developers are working on the s
 
 ---
 
+## Difference Between `git pull` and `git fetch`
+
+| `git pull` | `git fetch` |
+|---|---|
+| Downloads changes from the remote repository | Downloads changes from the remote repository |
+| Automatically **merges** the changes into the current branch | Does **not merge** the changes |
+| Useful when you want the latest changes directly | Useful when you want to review changes before merging |
+| Equivalent to `git fetch` + `git merge` | Only downloads the changes |
+| May cause merge conflicts immediately | Does not change your current branch |
+
+### Easy Way to Remember
+
+**`git pull` = Fetch + Merge**
+
+**`git fetch` = Download changes only**
+---
 # Complete Git Workflow
 
 ```text
