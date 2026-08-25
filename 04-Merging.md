@@ -198,22 +198,8 @@ Instead, Git creates a **new merge commit** that combines both histories.
 ## Diagram
 
 ```
-Before Merge
 
-          C --- D (feature)
-         /
-A --- B
-         \
-          E (master)
-
-
-After Merge
-
-          C --- D
-         /       \
-A --- B           M
-         \       /
-          E -----
+![3-way Merging](3-way-merging.png)
 ```
 
 **M** is the merge commit.
