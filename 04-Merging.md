@@ -57,7 +57,7 @@ No extra merge commit is created.
 
 ## Diagram
 
-<img src="2-way-merging.png" alt="Fast-Forward Merge" width="600">
+<img src="2-way-merging.png" alt="Fast-Forward Merge" width="700">
 
 
 Notice that the history remains a straight line.
@@ -181,7 +181,7 @@ Instead, Git creates a **new merge commit** that combines both histories.
 
 ## Diagram
 
-<img src="3-way-merging.png" alt="3-way Merging" width="600">
+<img src="3-way-merging.png" alt="3-way Merging" width="700">
 
 
 **M** is the merge commit.
