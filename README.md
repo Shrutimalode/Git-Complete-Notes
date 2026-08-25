@@ -310,11 +310,11 @@ The remote repository is an online copy of your project stored on platforms like
 Common commands:
 
 ```bash
-git push
+git push -> git push origin main
 
-git pull
+git pull -> git pull origin main
 
-git fetch
+git fetch -> git fetch origin
 ```
 
 ---
