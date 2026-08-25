@@ -197,10 +197,9 @@ Instead, Git creates a **new merge commit** that combines both histories.
 
 ## Diagram
 
-```
 
 ![3-way Merging](3-way-merging.png)
-```
+
 
 **M** is the merge commit.
 
